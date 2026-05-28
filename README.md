@@ -1,3 +1,6 @@
+## Portfolio Demo Notice
+
+This repository is a portfolio/demo version of an AI Contract Execution Engine. It demonstrates the architecture, workflow, and agent pipeline, but does not include proprietary business workflows, client data, advanced prompts, or private production logic.
 # AI Contract Execution Engine
 
 A reusable agent-based Python app that turns a signed client request into:
